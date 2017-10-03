@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi xionggu
+
+Hubot here,I like java!
